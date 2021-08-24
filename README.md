@@ -1,2 +1,5 @@
-[README.md](https://github.com/ramyrams/AzureDevOpsAPI/files/7038814/README.md)
+
+
+#PMO Tool Automation
+https://sibeeshpassion.com/get-azure-devops-sprint-capacity-using-api-and-postman/
 
